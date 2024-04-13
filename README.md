@@ -13,3 +13,10 @@ Welcome to the Quantum Schrödinger Equation Solver repository, where we explore
 7. [Contributions](#contributions)
 8. [License](#license)
 9. [Acknowledgments](#acknowledgments)
+
+
+
+
+
+
+CustomTkinter GUI: The application employs CustomTkinter, a customized version of the Tkinter library, to create an intuitive and visually appealing user interface.
