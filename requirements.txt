@@ -1,0 +1,6 @@
+customtkinter
+packaging
+CTkMessagebox
+numpy
+matplotlib
+scipy
